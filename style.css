@@ -1,0 +1,22 @@
+body {
+  width: 95%;
+  margin: auto;
+  
+   background: url(images/esaquinus_projetos.png) center;
+   
+   color:white;
+   
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+} 
+
+img {
+  height: 500px;
+  width: 900px;
+}
+
+main{
+    background: #0a0707b8;
+
+
+}

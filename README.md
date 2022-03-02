@@ -1,2 +1,2 @@
-# Projeto-Inovador
-Higienizador com sensores Inteligentes
+# Projeto-Inovacao-Tecnologica
+Higienizador com sensores Inteligentes para UTI
